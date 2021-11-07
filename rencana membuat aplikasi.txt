@@ -1,0 +1,3 @@
+Rencana membuat aplikasi
+  -> membuat insert data
+  -> membuat Dedlete data
