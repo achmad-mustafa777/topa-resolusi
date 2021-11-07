@@ -1,6 +1,6 @@
 <?php 
     // koneksi ke database
-    $conn = mysqli_connect("localhost","root","110688","phpdasar");
+    $conn = mysqli_connect("localhost","root","11juni1988","phpdasar");
 
     function query ($query){
         global $conn;
