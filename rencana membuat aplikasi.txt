@@ -1,0 +1,5 @@
+Rencana membuat aplikasi
+  -> membuat insert data
+    * membuat function tambah data
+    * merombak sql nya
+  -> membuat Dedlete data
