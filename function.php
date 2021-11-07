@@ -25,7 +25,7 @@
             return false;
         }
 
-        $query = "INSERT INTO mahasiswa VALUES (0,'$nama', '$nrp', '$jurusan', '$email', '$gambar')";
+        $query = "INSERT INTO mahasiswa VALUES (0,'$nama', '$nrp', '$email', '$jurusan', '$gambar')";
         mysqli_query($conn,$query);
 
         return mysqli_affected_rows($conn);
