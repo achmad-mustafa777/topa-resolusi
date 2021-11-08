@@ -2,5 +2,9 @@ Rencana membuat aplikasi
   -> membuat insert data
     * membuat function tambah data
     * merombak sql nya
+      -> menggunakan phpmyadmin
   -> membuat view tampilan data
+    -> menambahkan codeigniter buat tampilannya
   -> membuat Delete data
+    -> membuat fungsi delete data secara nativ
+  -> Membuat Search secara automatis
