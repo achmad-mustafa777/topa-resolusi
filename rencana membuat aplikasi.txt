@@ -2,4 +2,5 @@ Rencana membuat aplikasi
   -> membuat insert data
     * membuat function tambah data
     * merombak sql nya
-  -> membuat Dedlete data
+  -> membuat view tampilan data
+  -> membuat Delete data
