@@ -7,3 +7,4 @@ Rencana membuat aplikasi
     -> menambahkan laravel buat tampilannya
   -> membuat Delete data
     -> membuat fungsi deletenya
+
